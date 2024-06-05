@@ -16,7 +16,7 @@ public class MathUtil1 {
     public static void main(String[] args) {
         
         int n = 0;
-        long expectedValue = 1; // Hy vọng 0! = 1
+        long expectedValue = 1000000; // Hy vọng 0! = 1
         long actualValue; //=? Chờ hàm trả về
         actualValue = MathUtility.getFactorial(n);
         
